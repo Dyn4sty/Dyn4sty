@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on building websites and native applications.
 - 🌱 I’m currently learning Java, C++ To learn about OOP And some advance CS concepts. 
-- 👯 I’m looking to collaborate on open source projects based on the MERN stack.
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Linux, productivity, websites and application development.
 - 📫 How to reach me: [Email 📧](mailto:liorkasha17@gmail.com) 
 
