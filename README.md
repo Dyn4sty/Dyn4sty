@@ -1,6 +1,6 @@
 # Hey there, I'm Lior 👋
 
-### I'm a CS student 👨‍💻 from Israel, who loves to create Software and apps ** 💻.
+### I'm a CS student 👨‍💻 from Israel, who loves to create Software and apps 💻.
 
 - 🔭 I’m currently working on building websites and native applications.
 - 🌱 I’m currently learning Java, C++ To learn about OOP And some advance CS concepts. 
