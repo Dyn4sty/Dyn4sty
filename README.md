@@ -14,7 +14,7 @@
 - **Related stuff** - Git, JWT, Passport, Heroku, Netlify, AWS, Docker.
 
 ### What I Want To Learn 🤓:
- Master MERN stack and learn React Native, Electron, Figma, UI/UX, GraphQL and way too many stuff.
+ Master MERN stack and learn Java, React Native, Electron, Figma, UI/UX, and way too many stuff.
 
 <img src="https://github-readme-stats.vercel.app/api/?username=Dyn4sty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
